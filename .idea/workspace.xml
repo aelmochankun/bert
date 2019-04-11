@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ef59b5c-bda6-4d73-89ff-26c528a3190e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_pretraining_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_pretraining_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_features.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeling_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multilingual.md" beforeDir="false" afterPath="$PROJECT_DIR$/multilingual.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/optimization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optimization_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/optimization_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predicting_movie_reviews_with_bert_on_tf_hub.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/predicting_movie_reviews_with_bert_on_tf_hub.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_classifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_classifier_with_tfhub.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_classifier_with_tfhub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_pretraining.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_pretraining.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_squad.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_squad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample_text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenization.py" beforeDir="false" afterPath="$PROJECT_DIR$/tokenization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenization_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tokenization_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,15 +15,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="405" column="28" lean-forward="true" selection-start-line="405" selection-start-column="28" selection-end-line="405" selection-end-column="28" />
+            <state relative-caret-position="432">
+              <caret line="398" column="57" lean-forward="true" selection-start-line="398" selection-start-column="57" selection-end-line="398" selection-end-column="57" />
               <folding>
                 <element signature="e#4122#4861#0" />
                 <element signature="e#4901#5375#0" />
                 <element signature="e#5409#5785#0" />
                 <element signature="e#5819#6730#0" />
                 <element signature="e#6771#8392#0" />
-                <element signature="e#8433#9774#0" />
                 <element signature="e#9815#11036#0" />
                 <element signature="e#11077#12362#0" />
                 <element signature="e#12480#15951#0" />
@@ -65,6 +44,9 @@
     <findStrings>
       <find>Cola</find>
       <find>get_train_examples</find>
+      <find>get_test_examples</find>
+      <find>label_map[</find>
+      <find>_create_examples</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,15 +137,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/run_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="405" column="28" lean-forward="true" selection-start-line="405" selection-start-column="28" selection-end-line="405" selection-end-column="28" />
+        <state relative-caret-position="432">
+          <caret line="398" column="57" lean-forward="true" selection-start-line="398" selection-start-column="57" selection-end-line="398" selection-end-column="57" />
           <folding>
             <element signature="e#4122#4861#0" />
             <element signature="e#4901#5375#0" />
             <element signature="e#5409#5785#0" />
             <element signature="e#5819#6730#0" />
             <element signature="e#6771#8392#0" />
-            <element signature="e#8433#9774#0" />
             <element signature="e#9815#11036#0" />
             <element signature="e#11077#12362#0" />
             <element signature="e#12480#15951#0" />
